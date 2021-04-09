@@ -1,0 +1,12 @@
+### Activate virenv
+.\Script\activate.bat
+.\Script\activate
+
+deactivate
+
+
+### Dependencies
+
+- pip install asyncio
+- pip install pyyaml
+- pip isntall 
